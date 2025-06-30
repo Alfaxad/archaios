@@ -1,0 +1,2909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>ARCHAIOS - 126 Water Anomaly Archaeological Sites</name>
+    <description>Extreme confidence archaeological sites >20km from water sources in Acre, Brazil</description>
+    
+    <!-- Define Styles -->
+    <Style id="extreme_site">
+        <IconStyle>
+            <color>ff0000ff</color>
+            <scale>1.5</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+            </Icon>
+        </IconStyle>
+        <LabelStyle>
+            <scale>0.8</scale>
+        </LabelStyle>
+    </Style>
+    
+    <Style id="validated_yes">
+        <IconStyle>
+            <color>ff00ff00</color>
+            <scale>1.3</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    
+    <Style id="validated_probable">
+        <IconStyle>
+            <color>ff00ffff</color>
+            <scale>1.2</scale>
+            <Icon>
+                <href>http://maps.google.com/mapfiles/kml/shapes/star.png</href>
+            </Icon>
+        </IconStyle>
+    </Style>
+    
+    <Style id="complex_boundary">
+        <LineStyle>
+            <color>ff0000ff</color>
+            <width>3</width>
+        </LineStyle>
+        <PolyStyle>
+            <color>440000ff</color>
+            <fill>1</fill>
+        </PolyStyle>
+    </Style>
+    
+    <!-- Folder for Individual Sites -->
+    <Folder>
+        <name>126 Extreme Confidence Sites</name>
+        <description>All sites with fused_score >= 0.95 and >20km from water</description>
+
+        <Placemark>
+            <name>Site #1 - 38km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 37.6km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c308ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.82021724178898,-9.66894783526708,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #2 - 43km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 43.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 14x further from water than typical settlements
+
+H3 ID: 878b4c20bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.80550217616013,-9.480763814874916,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #3 - 66km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 65.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 22x further from water than typical settlements
+
+H3 ID: 878b4c074ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.61335089511728,-9.88670779009978,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #4 - 78km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 78.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 26x further from water than typical settlements
+
+H3 ID: 878b43a72ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.04889473731771,-10.054544036951658,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #5 - 100km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 100.1km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 33x further from water than typical settlements
+
+H3 ID: 878b48a0effffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.87151933880268,-8.765187973807098,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #6 - 126km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 125.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 42x further from water than typical settlements
+
+H3 ID: 878b41034ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.5343334343042,-10.63029389140999,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #7 - 53km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 53.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 18x further from water than typical settlements
+
+H3 ID: 878b4ed03ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.23867902721445,-9.89918302274952,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #8 - 159km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 159.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 53x further from water than typical settlements
+
+H3 ID: 878b418b0ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.5569018162785,-10.934809604424151,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #9 - 65km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 65.1km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 22x further from water than typical settlements
+
+H3 ID: 878b4c0edffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.58312086893159,-9.759021199196413,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #10 - 35km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 35.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b487a2ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.12197336643504,-8.497492601782477,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #11 - 50km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 50.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 17x further from water than typical settlements
+
+H3 ID: 878b4c214ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.71086298297614,-9.57129894830541,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #12 - 145km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 145.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 48x further from water than typical settlements
+
+H3 ID: 878b41124ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.60769857628102,-10.801572086896236,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #13 - 62km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 61.7km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 21x further from water than typical settlements
+
+H3 ID: 878b4c2d2ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.67512200444612,-9.373092675005982,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #14 - 153km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 153.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 51x further from water than typical settlements
+
+H3 ID: 878b41890ffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-70.53244202101122,-10.877706472001709,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #15 - 80km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 79.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b4179bffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-70.23827356196317,-10.169722863278622,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #16 - 44km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 44.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 15x further from water than typical settlements
+
+H3 ID: 878b4c318ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.75862302230482,-9.66209563021822,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #17 - 58km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 58.4km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 19x further from water than typical settlements
+
+H3 ID: 878b480deffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.3682253982209,-8.547603718855196,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #18 - 22km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 21.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 7x further from water than typical settlements
+
+H3 ID: 878b4ab6dffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.05386583626671,-8.397076112263633,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #19 - 49km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 49.1km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 16x further from water than typical settlements
+
+H3 ID: 878b4d586ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.87347821599563,-9.309471226272588,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #20 - 32km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 31.6km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b4861bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.22631185894284,-8.276346554954214,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #21 - 63km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 62.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 21x further from water than typical settlements
+
+H3 ID: 878b4c05affffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.6024127335536,-9.74565010394662,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #22 - 38km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 38.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c22bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.83032008570535,-9.537920453459993,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #23 - 31km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 30.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 10x further from water than typical settlements
+
+H3 ID: 878b4c373ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.87999571007207,-9.652262475909255,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #24 - 72km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 72.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 24x further from water than typical settlements
+
+H3 ID: 878b4c0e0ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.52525209853914,-9.79911679803829,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #25 - 55km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 55.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 18x further from water than typical settlements
+
+H3 ID: 878b4cab4ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.76134494340468,-9.957741322195712,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #26 - 57km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 56.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 19x further from water than typical settlements
+
+H3 ID: 878b4c061ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.69239830838063,-9.856744483871848,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #27 - 66km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 65.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 22x further from water than typical settlements
+
+H3 ID: 878b4c050ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.58676256846753,-9.806035964797898,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #28 - 45km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 44.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 15x further from water than typical settlements
+
+H3 ID: 878b4c2e5ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.80366411307455,-9.45724305566281,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #29 - 66km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 66.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 22x further from water than typical settlements
+
+H3 ID: 878b4168effffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.26978351532696,-10.049738523800103,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #30 - 98km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 98.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 33x further from water than typical settlements
+
+H3 ID: 878b48a08ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.89078011954545,-8.751724678726408,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #31 - 37km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 36.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b4bd46ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.20851205626397,-8.041957406894399,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #32 - 103km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 102.7km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 34x further from water than typical settlements
+
+H3 ID: 878b43825ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-69.76112886727121,-10.521897278252528,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #33 - 82km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 81.7km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b43a2bffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.03144110956977,-10.091099029988673,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #34 - 86km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 86.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 29x further from water than typical settlements
+
+H3 ID: 878b417a8ffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-70.32524632194831,-10.257341611791476,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #35 - 138km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 138.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 46x further from water than typical settlements
+
+H3 ID: 878b41104ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.58323001041701,-10.74447125829006,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #36 - 64km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 63.9km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 21x further from water than typical settlements
+
+H3 ID: 878b4eda4ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.12038873305926,-9.931645621816422,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #37 - 74km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 73.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 25x further from water than typical settlements
+
+H3 ID: 878b4c0c0ffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-71.50052356492483,-9.741974102099638,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #38 - 120km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 120.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 40x further from water than typical settlements
+
+H3 ID: 878b41004ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.57106311706276,-10.580480715878313,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #39 - 40km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 40.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4ec03ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.22675432154627,-9.735443205944057,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #40 - 29km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 29.1km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 10x further from water than typical settlements
+
+H3 ID: 878b486d1ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.19825079574488,-8.172570814558194,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #41 - 41km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 40.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 14x further from water than typical settlements
+
+H3 ID: 878b48609ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.30835036717741,-8.29296875315281,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #42 - 71km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 70.6km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 24x further from water than typical settlements
+
+H3 ID: 878b41691ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.210585572061,-10.065950239802628,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #43 - 40km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 40.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c305ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.80458692174001,-9.729394861509444,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #44 - 32km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 31.6km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b4c351ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.87630504307735,-9.605204547779223,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #45 - 137km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 137.1km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 46x further from water than typical settlements
+
+H3 ID: 878b41105ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.60247517760014,-10.73128333689262,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #46 - 52km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 51.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 17x further from water than typical settlements
+
+H3 ID: 878b4ca95ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.75583491062787,-9.887172813364796,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #47 - 44km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 43.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 15x further from water than typical settlements
+
+H3 ID: 878b4ca10ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.88283168337688,-9.948036079419897,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #48 - 146km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 145.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 49x further from water than typical settlements
+
+H3 ID: 878b41c1affffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.26693133346892,-10.838032400719538,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #49 - 78km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 77.6km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 26x further from water than typical settlements
+
+H3 ID: 878b48008ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.46124774183683,-8.705138043756838,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #50 - 153km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 152.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 51x further from water than typical settlements
+
+H3 ID: 878b41881ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.61292449446323,-10.871861741810932,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #51 - 100km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 99.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 33x further from water than typical settlements
+
+H3 ID: 878b4390cffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-69.76612824411873,-10.5919572214056,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #52 - 31km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 31.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 10x further from water than typical settlements
+
+H3 ID: 878b4cadaffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.8855339192526,-9.722852779321736,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #53 - 95km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 94.6km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 32x further from water than typical settlements
+
+H3 ID: 878b417a6ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.26940413764744,-10.320314262732913,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #54 - 44km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 43.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 15x further from water than typical settlements
+
+H3 ID: 878b4c204ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.77241745806647,-9.578137961226886,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #55 - 38km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 37.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c30bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.81837683120688,-9.645423162446038,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #56 - 150km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 150.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 50x further from water than typical settlements
+
+H3 ID: 878b4189cffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.57093842476353,-10.851360753765157,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #57 - 152km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 151.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 51x further from water than typical settlements
+
+H3 ID: 878b41892ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.51146222165299,-10.867453221861773,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #58 - 33km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 33.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b4c354ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.85883815839706,-9.642141018936746,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #59 - 92km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 92.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 31x further from water than typical settlements
+
+H3 ID: 878b417a2ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.26769485637418,-10.296915368148024,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #60 - 106km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 106.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 35x further from water than typical settlements
+
+H3 ID: 878b43970ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-69.82522747659185,-10.575986323835044,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #61 - 156km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 155.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 52x further from water than typical settlements
+
+H3 ID: 878b41894ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.53417755748802,-10.90112944877604,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #62 - 49km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 49.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 16x further from water than typical settlements
+
+H3 ID: 878b4c236ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.71452465897833,-9.618329523631624,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #63 - 33km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 33.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b486e2ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.24369574823999,-8.239474321752692,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #64 - 64km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 63.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 21x further from water than typical settlements
+
+H3 ID: 878b41699ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.24720487682379,-10.016152521928325,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #65 - 155km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 155.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 52x further from water than typical settlements
+
+H3 ID: 878b41885ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.61466702737987,-10.895291791005416,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #66 - 66km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 66.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 22x further from water than typical settlements
+
+H3 ID: 878b43a59ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.10124679482252,-9.944842558573288,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #67 - 69km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 69.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 23x further from water than typical settlements
+
+H3 ID: 878b480adffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.35979562904882,-8.701819688739455,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #68 - 71km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 71.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 24x further from water than typical settlements
+
+H3 ID: 878b41603ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.39684142845707,-10.134302480686932,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #69 - 71km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 70.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 24x further from water than typical settlements
+
+H3 ID: 878b4c00bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.54817586673512,-9.832763651142816,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #70 - 61km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 60.6km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 20x further from water than typical settlements
+
+H3 ID: 878b4c168ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.72270522319843,-9.984485124946575,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #71 - 123km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 122.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 41x further from water than typical settlements
+
+H3 ID: 878b41022ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.57280040696139,-10.603907472713312,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #72 - 47km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 47.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 16x further from water than typical settlements
+
+H3 ID: 878b4ca32ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.88652741696121,-9.99510265927892,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #73 - 83km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 83.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 28x further from water than typical settlements
+
+H3 ID: 878b43a29ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.05227278325481,-10.101298938646412,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #74 - 80km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 79.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b4c026ffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-71.51867115722446,-9.976994762688395,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #75 - 34km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 34.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b4bd75ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.21206975102115,-8.088827389196506,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #76 - 35km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 35.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b4cad0ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.86990590633978,-9.783314728595055,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #77 - 101km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 101.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 34x further from water than typical settlements
+
+H3 ID: 878b43820ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-69.7403299458508,-10.511654786175033,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #78 - 27km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 27.1km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 9x further from water than typical settlements
+
+H3 ID: 878b4878affffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.13404385596999,-8.390322808764523,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #79 - 82km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 82.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b43b5dffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.11479741598644,-10.131901419110248,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #80 - 27km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 26.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 9x further from water than typical settlements
+
+H3 ID: 878b486f6ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.18442611023707,-8.256313332757308,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #81 - 31km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 30.7km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 10x further from water than typical settlements
+
+H3 ID: 878b487b3ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.08009882193892,-8.477416158996832,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #82 - 23km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 22.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 8x further from water than typical settlements
+
+H3 ID: 878b486a6ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.11133685401308,-8.356857188140562,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #83 - 148km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 147.6km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 49x further from water than typical settlements
+
+H3 ID: 878b4188affffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.60944026897813,-10.82500188185576,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #84 - 42km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 41.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 14x further from water than typical settlements
+
+H3 ID: 878b4c205ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.7917172476009,-9.564735001153991,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #85 - 157km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 156.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 52x further from water than typical settlements
+
+H3 ID: 878b41884ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.59541060020958,-10.908467694519423,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #86 - 125km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 125.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 42x further from water than typical settlements
+
+H3 ID: 878b41025ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.61475465335644,-10.624368836338531,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #87 - 70km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 69.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 23x further from water than typical settlements
+
+H3 ID: 878b4c00dffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.57110832133561,-9.866414858332917,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #88 - 39km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 39.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4ec01ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.24760261577889,-9.745608090961532,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #89 - 22km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 21.7km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 7x further from water than typical settlements
+
+H3 ID: 878b4ab6cffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.03471130030829,-8.410476993859604,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #90 - 76km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 76.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 25x further from water than typical settlements
+
+H3 ID: 878b48911ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.56784428565201,-9.299078330159569,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #91 - 101km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 100.9km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 34x further from water than typical settlements
+
+H3 ID: 878b48a0affffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.86967966449285,-8.741676979288943,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #92 - 82km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 82.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b4802bffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.48407611070525,-8.738668881415334,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #93 - 79km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 78.9km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 26x further from water than typical settlements
+
+H3 ID: 878b48054ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.49968181920957,-8.678283388974888,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #94 - 40km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 40.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c301ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.8027475164552,-9.70587066081372,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #95 - 26km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 26.2km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 9x further from water than typical settlements
+
+H3 ID: 878b48790ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.05740071162128,-8.443943716843835,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #96 - 120km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 119.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 40x further from water than typical settlements
+
+H3 ID: 878b41569ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.368477798902,-10.571844312161913,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #97 - 36km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 36.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b486ceffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.2575105397875,-8.155711636767773,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #98 - 74km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 73.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 25x further from water than typical settlements
+
+H3 ID: 878b416a1ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.29579192787392,-10.130129044491303,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #99 - 47km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 47.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 16x further from water than typical settlements
+
+H3 ID: 878b4c230ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.73382115947007,-9.604935227685072,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #100 - 58km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 58.1km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 19x further from water than typical settlements
+
+H3 ID: 878b4c14dffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.71903795697762,-9.937444773131896,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #101 - 141km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 141.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 47x further from water than typical settlements
+
+H3 ID: 878b41130ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.54474375003348,-10.77083730074161,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #102 - 60km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 60.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 20x further from water than typical settlements
+
+H3 ID: 878b4876bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.4588169196044,-8.410039829584733,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #103 - 35km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 35.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b4c30dffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.84136945779234,-9.679072360548588,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #104 - 54km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 54.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 18x further from water than typical settlements
+
+H3 ID: 878b4c06cffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.7117069391546,-9.843368512392605,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #105 - 81km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 81.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 27x further from water than typical settlements
+
+H3 ID: 878b4802affffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.4648564768804,-8.752092383448149,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #106 - 46km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 46.1km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 15x further from water than typical settlements
+
+H3 ID: 878b4c21dffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.76691105637403,-9.507580655086413,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #107 - 74km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 73.9km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 25x further from water than typical settlements
+
+H3 ID: 878b4c00effffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.53070072736753,-9.869626781022454,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #108 - 95km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 95.0km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 32x further from water than typical settlements
+
+H3 ID: 878b43918ffffff
+
+O3 VALIDATION: YES
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_yes</styleUrl>
+            <Point>
+                <coordinates>-69.70372964996064,-10.561213265932889,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #109 - 34km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 33.6km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b486e6ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.24547858491943,-8.262918742372305,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #110 - 76km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 76.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 25x further from water than typical settlements
+
+H3 ID: 878b43a71ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.08887303885827,-10.051556315581808,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #111 - 34km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 33.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 11x further from water than typical settlements
+
+H3 ID: 878b4cad5ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.89107478045958,-9.79344698424672,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #112 - 38km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 37.6km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4c30cffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.82205794610722,-9.69247296134014,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #113 - 42km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 41.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 14x further from water than typical settlements
+
+H3 ID: 878b4bd6effffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.26953558692811,-8.048508247863808,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #114 - 47km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 47.3km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 16x further from water than typical settlements
+
+H3 ID: 878b4c219ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.76507617475131,-9.484062560357003,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #115 - 40km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 39.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 13x further from water than typical settlements
+
+H3 ID: 878b4ca1effffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.90031544742399,-9.911112075760174,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #116 - 59km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 59.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 20x further from water than typical settlements
+
+H3 ID: 878b4c16bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.7208714435902,-9.960964770577268,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #117 - 37km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 37.4km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b4c228ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.83216091326689,-9.56144457470824,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #118 - 146km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 146.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 49x further from water than typical settlements
+
+H3 ID: 878b41c40ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-70.44682435223999,-10.813279406252027,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #119 - 70km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 70.2km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 23x further from water than typical settlements
+
+H3 ID: 878b4c02bffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.57292859406732,-9.889922236301254,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #120 - 84km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 84.0km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 28x further from water than typical settlements
+
+H3 ID: 878b4c014ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 7/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-71.45353929569967,-9.923028866226906,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #121 - 61km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 60.8km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 20x further from water than typical settlements
+
+H3 ID: 878b4ed16ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.16037462274318,-9.928628193960026,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #122 - 37km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 37.3km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 12x further from water than typical settlements
+
+H3 ID: 878b4bcd6ffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-70.98890132420928,-7.801577811752605,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #123 - 58km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 57.8km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 19x further from water than typical settlements
+
+H3 ID: 878b4874cffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.4378189616317,-8.40001426556125,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #124 - 51km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 51.5km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 17x further from water than typical settlements
+
+H3 ID: 878b4c3abffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.69522926340198,-9.63172092110681,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #125 - 101km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 100.5km
+Indigenous Territory: No
+Forest Status: unknown
+
+WATER ANOMALY: This site is 34x further from water than typical settlements
+
+H3 ID: 878b43908ffffff
+
+O3 VALIDATION: PROBABLE
+Evidence Quality: 8/10]]></description>
+            <styleUrl>#validated_probable</styleUrl>
+            <Point>
+                <coordinates>-69.76446151695968,-10.568603706492317,0</coordinates>
+            </Point>
+        </Placemark>
+
+        <Placemark>
+            <name>Site #126 - 61km from water</name>
+            <description><![CDATA[Extreme Confidence Archaeological Site
+Fused Score: 0.9800
+Evidence Count: 7/7
+Water Distance: 60.7km
+Indigenous Territory: Yes
+Forest Status: unknown
+
+WATER ANOMALY: This site is 20x further from water than typical settlements
+
+H3 ID: 878b4c14cffffff]]></description>
+            <styleUrl>#extreme_site</styleUrl>
+            <Point>
+                <coordinates>-71.69972294510227,-9.950815073434349,0</coordinates>
+            </Point>
+        </Placemark>
+
+    </Folder>
+    
+    <!-- Folder for Archaeological Complexes -->
+    <Folder>
+        <name>Archaeological Complexes</name>
+        <description>Clusters of extreme confidence sites</description>
+
+        <Placemark>
+            <name>Complex 9 (25 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 25
+Total Hexagons: 94
+Area: 432.4 km²
+Mean Water Distance: 47.4km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.83422465942327,-9.712491668388322,0
+-71.64742776785921,-9.712491668388322,0
+-71.64742776785921,-9.525694776824254,0
+-71.83422465942327,-9.525694776824254,0
+-71.83422465942327,-9.712491668388322,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 7 (20 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 20
+Total Hexagons: 130
+Area: 598.0 km²
+Mean Water Distance: 72.3km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.62601266734245,-9.951887316499043,0
+-71.40633930656924,-9.951887316499043,0
+-71.40633930656924,-9.732213955725822,0
+-71.62601266734245,-9.732213955725822,0
+-71.62601266734245,-9.951887316499043,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 12 (13 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 13
+Total Hexagons: 148
+Area: 680.8 km²
+Mean Water Distance: 108.9km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-70.54403017859977,-10.58989727398003,0
+-70.30964152955485,-10.58989727398003,0
+-70.30964152955485,-10.35550862493511,0
+-70.54403017859977,-10.35550862493511,0
+-70.54403017859977,-10.58989727398003,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 1 (13 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 13
+Total Hexagons: 103
+Area: 473.8 km²
+Mean Water Distance: 78.0km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-70.22237610575831,-10.194794098711538,0
+-70.02684118462696,-10.194794098711538,0
+-70.02684118462696,-9.999259177580173,0
+-70.22237610575831,-9.999259177580173,0
+-70.22237610575831,-10.194794098711538,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 8 (10 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 10
+Total Hexagons: 56
+Area: 257.6 km²
+Mean Water Distance: 33.9km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.29721542387979,-8.218778064629651,0
+-71.15303717991473,-8.218778064629651,0
+-71.15303717991473,-8.074599820664586,0
+-71.29721542387979,-8.074599820664586,0
+-71.29721542387979,-8.218778064629651,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 6 (10 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 10
+Total Hexagons: 49
+Area: 225.4 km²
+Mean Water Distance: 151.0km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-70.49958111580364,-10.93245092640713,0
+-70.36471471791765,-10.93245092640713,0
+-70.36471471791765,-10.797584528521133,0
+-70.49958111580364,-10.797584528521133,0
+-70.49958111580364,-10.93245092640713,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 29 (7 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 7
+Total Hexagons: 34
+Area: 156.4 km²
+Mean Water Distance: 29.0km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.15608534753693,-8.497237831175058,0
+-71.04374256492204,-8.497237831175058,0
+-71.04374256492204,-8.384895048560155,0
+-71.15608534753693,-8.384895048560155,0
+-71.15608534753693,-8.497237831175058,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 15 (5 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 5
+Total Hexagons: 49
+Area: 225.4 km²
+Mean Water Distance: 68.7km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.44411527515244,-8.740855286925589,0
+-71.30924887726646,-8.740855286925589,0
+-71.30924887726646,-8.605988889039592,0
+-71.44411527515244,-8.605988889039592,0
+-71.44411527515244,-8.740855286925589,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 35 (5 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 5
+Total Hexagons: 15
+Area: 69.0 km²
+Mean Water Distance: 98.7km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-69.78002781411205,-10.60121017393699,0
+-69.70540848368698,-10.60121017393699,0
+-69.70540848368698,-10.526590843511924,0
+-69.78002781411205,-10.526590843511924,0
+-69.78002781411205,-10.60121017393699,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 2 (3 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 3
+Total Hexagons: 65
+Area: 299.0 km²
+Mean Water Distance: 62.6km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.77717224683113,-9.41016866158408,0
+-71.62183972378236,-9.41016866158408,0
+-71.62183972378236,-9.254836138535296,0
+-71.77717224683113,-9.254836138535296,0
+-71.77717224683113,-9.41016866158408,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 5 (3 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 3
+Total Hexagons: 42
+Area: 193.2 km²
+Mean Water Distance: 46.3km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-70.30179123907854,-9.878676528052887,0
+-70.17692921713177,-9.878676528052887,0
+-70.17692921713177,-9.753814506106108,0
+-70.30179123907854,-9.753814506106108,0
+-70.30179123907854,-9.878676528052887,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 47 (3 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 3
+Total Hexagons: 10
+Area: 46.0 km²
+Mean Water Distance: 42.2km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.90647433665787,-9.943525181180865,0
+-71.84554790849468,-9.943525181180865,0
+-71.84554790849468,-9.882598753017684,0
+-71.90647433665787,-9.882598753017684,0
+-71.90647433665787,-9.943525181180865,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 13 (3 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 3
+Total Hexagons: 9
+Area: 41.4 km²
+Mean Water Distance: 102.8km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.88584020637828,-8.751935151226418,0
+-71.82804032157,-8.751935151226418,0
+-71.82804032157,-8.694135266418135,0
+-71.88584020637828,-8.694135266418135,0
+-71.88584020637828,-8.751935151226418,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 20 (2 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 2
+Total Hexagons: 11
+Area: 50.6 km²
+Mean Water Distance: 54.6km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.44164522759041,-8.424692749858504,0
+-71.37774505064547,-8.424692749858504,0
+-71.37774505064547,-8.360792572913557,0
+-71.44164522759041,-8.360792572913557,0
+-71.44164522759041,-8.424692749858504,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 0 (1 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 1
+Total Hexagons: 31
+Area: 142.6 km²
+Mean Water Distance: 33.5km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.05287789504791,-7.9060141363165926,0
+-70.94560584877749,-7.9060141363165926,0
+-70.94560584877749,-7.7987420900461775,0
+-71.05287789504791,-7.7987420900461775,0
+-71.05287789504791,-7.9060141363165926,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 19 (1 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 1
+Total Hexagons: 8
+Area: 36.8 km²
+Mean Water Distance: 106.7km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-69.87257842644517,-10.638477762665739,0
+-69.81808417244552,-10.638477762665739,0
+-69.81808417244552,-10.583983508666085,0
+-69.87257842644517,-10.583983508666085,0
+-69.87257842644517,-10.638477762665739,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <Placemark>
+            <name>Complex 44 (1 extreme sites)</name>
+            <description><![CDATA[
+Archaeological Complex
+Extreme Sites: 1
+Total Hexagons: 5
+Area: 23.0 km²
+Mean Water Distance: 57.7km
+            ]]></description>
+            <styleUrl>#complex_boundary</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+-71.37789655257521,-8.572503812314096,0
+-71.33481506206755,-8.572503812314096,0
+-71.33481506206755,-8.529422321806436,0
+-71.37789655257521,-8.529422321806436,0
+-71.37789655257521,-8.572503812314096,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+    </Folder>
+</Document>
+</kml>
